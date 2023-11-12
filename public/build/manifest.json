@@ -1,0 +1,17 @@
+{
+  "public/css/media.css": {
+    "file": "assets/media-ccc7a056.css",
+    "src": "public/css/media.css",
+    "isEntry": true
+  },
+  "public/css/main.css": {
+    "file": "assets/main-0c526f17.css",
+    "src": "public/css/main.css",
+    "isEntry": true
+  },
+  "public/js/main.js": {
+    "file": "assets/main-ddd89a51.js",
+    "src": "public/js/main.js",
+    "isEntry": true
+  }
+}
